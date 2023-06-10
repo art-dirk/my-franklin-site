@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My Franklin Site
+This is a sample Franklin site created from the Adobe AEM Franklin framework.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--my-franklin-site--art-dirk.hlx.page/
+- Live: https://main--my-franklin-site--art-dirk.hlx.live/
 
 ## Installation
 
