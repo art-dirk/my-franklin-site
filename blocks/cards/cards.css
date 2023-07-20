@@ -19,6 +19,7 @@
 
 .cards .cards-card-image {
   line-height: 0;
+  border: 16px solid #c1d8f0;
 }
 
 .cards .cards-card-body > *:first-child {
